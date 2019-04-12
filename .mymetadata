@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SickMessage"
+  id="myeclipse.1551502758873"
+  context-root="/sm"
+  j2ee-spec="5.0"
+  archive="SickMessage.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
